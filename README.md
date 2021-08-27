@@ -1,18 +1,18 @@
-# AI Code Templates
-Start with ready code for your next AI experiment. Examples are provided as `ipynb` (Jupyter Notebook) files. A Jupyter viewer is required to use them.
+# AI Seed Projects
+Start with ready code for your next AI experiment. Choose from 400+ code templates, across a wide variety of use cases. All examples follow a consistent program structure for standardisation.
 
-<table border="0">
+<table>
         <tr>
-          <td style='border:none;'>
+          <td>
             <a href="Classification"><img src="https://cdn.blobcity.com/img/classification_github_2.png" height="180"/></a>
-          </td style='border:none;'>
+          </td>
           <td>
             <a href="/Regression"><img src="https://cdn.blobcity.com/img/regression_github_2.png" height="180"/></a>
-          </td style='border:none;'>
-          <td style='border:none;'>
+          </td>
+          <td>
             <a href="/Clustering"><img src="https://cdn.blobcity.com/img/clustering_github_2.png" height="180"/></a>
           </td>
-          <td style='border:none;'>
+          <td>
             <a href="/EDA"><img src="https://cdn.blobcity.com/img/eda_github_2.png" height="180"/></a>
           </td>
         </tr>
@@ -39,9 +39,9 @@ Start with ready code for your next AI experiment. Examples are provided as `ipy
 3. Assumes data is in CSV format
 
 ## Run
-All code templates are hosted on BlobCity A.I. Cloud. They are ready to run, in a single click. Minimum infrastructure to test out the program is provided at no cost.
+One click run option available on BlobCity A.I. Cloud. Reasonable cloud infrastructure included for free.
 
 [<img src="https://cloud.blobcity.com/assets/images/badge.png" height="25" style="margin-bottom:-15px" />](https://cloud.blobcity.com)
 
 ## Contribute
-We welcome contributors. Want to make a correction, or add a code template? Simply send us a pull request, and we will accept if upto the mark. 
+We welcome contributors. Want to make a correction, or add a code template? Simply send us a pull request, and we will accept if it is upto the mark. 
