@@ -13,21 +13,21 @@ Start with ready code for your next AI experiment. Examples are provided as `ipy
             <a href="/Clustering"><img src="https://cdn.blobcity.com/img/clustering_github_2.png" height="180"/></a>
           </td>
           <td style='border:none;'>
-            <a href="https://cloud.blobcity.com/code/explore/EDA"><img src="https://cdn.blobcity.com/img/eda_github_2.png" height="180"/></a>
+            <a href="/EDA"><img src="https://cdn.blobcity.com/img/eda_github_2.png" height="180"/></a>
           </td>
         </tr>
         <tr>
           <td>
-            <a href="https://cloud.blobcity.com/code/explore/Dimensionality%20Reduction"><img src="https://cdn.blobcity.com/img/dimension_reduction_github_2.png" height="180"/></a>
+            <a href="/Dimensionality%20Reduction"><img src="https://cdn.blobcity.com/img/dimension_reduction_github_2.png" height="180"/></a>
           </td>
           <td>
-            <a href="https://cloud.blobcity.com/code/explore/Time%20Series%20Analysis"><img src="https://cdn.blobcity.com/img/time_series_github_2.png" height="180"/></a>
+            <a href="/Time%20Series%20Analysis"><img src="https://cdn.blobcity.com/img/time_series_github_2.png" height="180"/></a>
           </td>
           <td>
-            <a href="https://cloud.blobcity.com/code/explore/Natural%20Language%20Processing"><img src="https://cdn.blobcity.com/img/nlp_github_2.png" height="180"/></a>
+            <a href="/Natural%20Language%20Processing"><img src="https://cdn.blobcity.com/img/nlp_github_2.png" height="180"/></a>
           </td>
           <td>
-            <a href="https://cloud.blobcity.com/code/explore/Audio%20Visual"><img src="https://cdn.blobcity.com/img/image_video_github_2.png" height="180"/></a>
+            <a href="/Audio%20Visual"><img src="https://cdn.blobcity.com/img/image_video_github_2.png" height="180"/></a>
           </td>
         </tr>
 </table>
