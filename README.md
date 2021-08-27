@@ -4,13 +4,13 @@ Start with ready code for your next AI experiment. Examples are provided as `ipy
 <table border="0">
         <tr>
           <td style='border:none;'>
-            <a href="Classification"><img src="https://cdn.blobcity.com/img/classification_github.png" height="180"/></a>
+            <a href="Classification"></a>
           </td style='border:none;'>
           <td>
-            <a href="https://cloud.blobcity.com/code/explore/Regression"><img src="https://cdn.blobcity.com/img/regression_github.png" height="180"/></a>
+            <a href="/Regression"><img src="https://cdn.blobcity.com/img/regression_github.png" height="180"/></a>
           </td style='border:none;'>
           <td style='border:none;'>
-            <a href="https://cloud.blobcity.com/code/explore/Clustering"><img src="https://cdn.blobcity.com/img/clustering_github.png" height="180"/></a>
+            <a href="/Clustering"><img src="https://cdn.blobcity.com/img/clustering_github.png" height="180"/></a>
           </td>
           <td style='border:none;'>
             <a href="https://cloud.blobcity.com/code/explore/EDA"><img src="https://cdn.blobcity.com/img/eda_github.png" height="180"/></a>
