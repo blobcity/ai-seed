@@ -44,4 +44,4 @@ One click run option available on BlobCity A.I. Cloud. Reasonable cloud infrastr
 [<img src="https://cloud.blobcity.com/assets/images/badge.png" height="25" style="margin-bottom:-15px" />](https://cloud.blobcity.com)
 
 ## Contribute
-We welcome contributors. Want to make a correction, or add a code template? Simply send us a pull request, and we will accept if it is upto the mark. 
+We welcome contributors. Want to make a correction, or add a code template? Simply send us a pull request, and we will accept if it is upto the mark. Some of our templates are still WIP. You will know which ones when you open them. We would appreciate your help in completing them.  
