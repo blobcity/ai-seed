@@ -1,7 +1,7 @@
 # AI Code Templates
 Start with ready code for your next AI experiment. Examples are provided as `ipynb` (Jupyter Notebook) files. A Jupyter viewer is required to use them. 
 
-## Pre-requisits
+## Prerequisite
 1. Python
 2. Jupyter Notebook required to view and run
 3. Assumes data is in CSV format
