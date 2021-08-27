@@ -4,7 +4,7 @@ Start with ready code for your next AI experiment. Examples are provided as `ipy
 <table border="0">
         <tr>
           <td style='border:none;'>
-            <a href="Classification"></a>
+            <a href="Classification"><img src="https://cdn.blobcity.com/img/classification_github.png" height="180"/></a>
           </td style='border:none;'>
           <td>
             <a href="/Regression"><img src="https://cdn.blobcity.com/img/regression_github.png" height="180"/></a>
