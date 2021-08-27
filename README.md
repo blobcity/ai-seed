@@ -1,5 +1,3 @@
-<a href="https://cloud.blobcity.com"><img src="https://blobcity.com/assets/img/blobcity-logo.svg" width="250"/></a>
-
 # AI Seed Projects
 Start with ready code for your next AI experiment. Choose from 400+ code templates, across a wide variety of use cases. All examples follow a consistent program structure for standardisation.
 
