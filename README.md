@@ -3,7 +3,6 @@
 ![Contributors](https://shields.io/github/contributors/blobcity/ai-seed)
 ![Commit Activity](https://shields.io/github/commit-activity/m/blobcity/ai-seed)
 ![Last Commit](https://shields.io/github/last-commit/blobcity/ai-seed)
-[![Vulnerabilities](https://shields.io/snyk/vulnerabilities/github/blobcity/ai-seed)](https://snyk.io/product/open-source-security-management/)
 ![Repo Size](https://shields.io/github/repo-size/blobcity/ai-seed)
 [![Slack](https://shields.io/badge/join-slack-orange)](https://pix.blobcity.com/E2Bepr4w)
 
