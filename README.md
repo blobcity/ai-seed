@@ -7,6 +7,9 @@
 ![Repo Size](https://shields.io/github/repo-size/blobcity/ai-seed)
 [![Slack](https://shields.io/badge/join-slack-orange)](https://pix.blobcity.com/E2Bepr4w)
 
+[![Try On BlobCity](https://shields.io/badge/Run%20On-BlobCity%20AI%20Cloud-blue)](https://pix.blobcity.com/pgMuJMLv)
+[![AutoAI](https://shields.io/badge/Also%20Try-AutoAI-green)](https://pix.blobcity.com/Y5K1OeYN)
+
 [![GitHub Stars](https://shields.io/github/stars/blobcity?style=social)](https://github.com/blobcity)
 [![Twitter](https://shields.io/twitter/follow/blobcity?label=Follow)](https://twitter.com/blobcity)
 
