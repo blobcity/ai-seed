@@ -28,7 +28,9 @@ Start with ready code for your next AI experiment. Choose from 1000+ code templa
 ## Run
 One click run option available on BlobCity A.I. Cloud. Reasonable cloud infrastructure included for free.
 
-[<img src="https://cloud.blobcity.com/assets/images/badge.png" height="25" style="margin-bottom:-15px" />](https://cloud.blobcity.com)
+[![BlobCity AI Cloud](https://shields.io/badge/Open%20In-BlobCity-orange)](https://pix.blobcity.com/pgMuJMLv)
+[![CPU](https://shields.io/badge/CPU-Free-blue)](https://pix.blobcity.com/pgMuJMLv)
+[![GPU](https://shields.io/badge/GPU-%2475%2Fmonth-green)](https://pix.blobcity.com/pgMuJMLv)
 
 ## Contribute
 We welcome contributors. Want to make a correction, or add a code template? Simply send us a pull request, and we will accept if it is upto the mark. Some of our templates are still WIP. You will know which ones when you open them. We would appreciate your help in completing them.  
