@@ -807,7 +807,7 @@
                 "models": [
                     {
                         "name": "ObjectDetectionOpenCV.ipynb",
-                        "title": "Object Detection using OpenCV",
+                        "title": "Object Detection using OpenCV in Image",
                         "description": "This Code Template is for Object Detection in python using the OpenCV library. Object Detection is A computer vision technique that deals with detecting objects in an image or video. This technique draws a boundary or a bounding box around the target object and may also include their target label. It has many real-life applications like, image retrieval and video surveillance.",
                         "URL": "https://cdn.siberian.dev/code/Audio_Visual/Object_Detection/ObjectDetectionOpenCV.ipynb",
                         "keywords": "code template, object, detection, python,opencv, object, detection, computer, vision, technique, deals, detecting, objects, face, eye, inanimate, object, image, video, technique, draws, boundary, bounding, box, target, object, include, target, label, reallife, applications, image, retrieval, video, surveillance",
@@ -815,11 +815,11 @@
                     },
                     {
                         "name": "ObjectDetection_Video.ipynb",
-                        "title": "Object Detection using OpenCV",
+                        "title": "Object Detection using OpenCV in Video Input",
                         "description": "This Code Template is for Object Detection through webcam video capture using the OpenCV library in python. This technique draws a boundary or a bounding box around the target object and may also include its target label.",
                         "URL": "https://cdn.siberian.dev/code/Audio_Visual/Object_Detection/ObjectDetection_Video.ipynb",
                         "keywords": "code template, object, detection, webcam, video, capture,opencv, python, object, detection, computer, vision, technique, deals, detecting, objects, face, eye, inanimate, object, image, video, technique, draws, boundary, bounding, box, target, object, include, target, label, reallife, applications, image, retrieval, video, surveillance",
-                        "display_url": "https://siberian.dev/audio-visual/other/handgesturedetection-using-opencv"
+                        "display_url": "https://siberian.dev/audio-visual/other/object-detection-using-opencv-in-video-input"
                     }
                 ]
             },
