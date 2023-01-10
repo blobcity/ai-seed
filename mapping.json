@@ -1125,7 +1125,7 @@
                         "description": "This Code template is for the Classification tasks using a GradientBoostingClassifier based on the Gradient Boosting Ensemble Learning Technique. The objective is to minimize this loss function by adding weak learners using gradient descent. The template also uses MaxAbsScaler for data rescaling/normalization.",
                         "URL": "https://cdn.siberian.dev/code/Classification/Gradient_Boosting_Machine/GradientBoostingClassifier_MaxAbsScaler.ipynb",
                         "keywords": "gradient boosting classifier,gradient boosting,gradient boosting regressor,gradient boosting algorithm,tree based algorithm,maxabsscaler",
-                        "display_url": "https://siberian.dev/classification/gradient-boostin-classifier-maxabsscaler"
+                        "display_url": "https://siberian.dev/classification/gradient-boosting-classifier-maxabsscaler"
                     },
                     {
                         "name": "GradientBoostingClassifier_MinMaxScaler.ipynb",
@@ -1945,7 +1945,7 @@
                         "description": "This Code template is for the Classification tasks using RidgeClassifier and feature rescaling technique Normalization.",
                         "URL": "https://cdn.siberian.dev/code/Classification/Linear_Models/RidgeClassifier_Normalize.ipynb",
                         "keywords": "ridge classifier,ridge regression,ridge classifier algorithm,ridge regression example,sklearn ridge classifier,normalization",
-                        "display_url": "https://siberian.dev/classification/ridge-classifier-with-normalization"
+                        "display_url": "https://siberian.dev/classification/ridge-classifier-normalization"
                     },
                     {
                         "name": "RidgeClassifier_Normalize_PolynomialFeatures.ipynb",
@@ -2294,7 +2294,7 @@
                         "description": "This Code template is for the Classification tasks using simple BernoulliNB based on the Naive Bayes algorithm. BernoulliNB is for data that is distributed according to multivariate Bernoulli distributions.",
                         "URL": "https://cdn.siberian.dev/code/Classification/Naive_Bayes/BernoulliNB.ipynb",
                         "keywords": "bernoulli naive bayes classifier,bernoulli naive bayes,naive bayes,bernoulli classifier,gaussian naive bayes classifier",
-                        "display_url": "https://siberian.dev/classification/naive-bayes/bernoulli-naive-bayes"
+                        "display_url": "https://siberian.dev/classification/bernoulli-naive-bayes"
                     },
                     {
                         "name": "BernoulliNB_MaxAbsScaler.ipynb",
@@ -3863,7 +3863,7 @@
                         "description": "This Code template is for the Cluster analysis using a simple DBSCAN (Density-Based Spatial Clustering of Applications with Noise) Clustering algorithm including 2D and 3D cluster visualization of the Clusters along with the Normalize as a feature rescaling technique.",
                         "URL": "https://cdn.siberian.dev/code/Clustering/DBSCAN/DBSCAN_Normalize.ipynb",
                         "keywords": "dbscan,dbscan algorithm,dbscan clustering,dbscan clustering algorithm,dbscan sklearn,normalization",
-                        "display_url": "https://siberian.dev/clustering/dbscan/dbscan-normalization"
+                        "display_url": "https://siberian.dev/clustering/dbscan-normalization"
                     },
                     {
                         "name": "DBSCAN_RobustScaler.ipynb",
@@ -4763,7 +4763,7 @@
                 ]
             }
         ]
-    },    
+    },
     {
         "name": "Natural_Language_Processing",
         "image": "https://cdn.siberian.dev/code-gen/nlp_blue.png",
@@ -4778,7 +4778,7 @@
                         "description": "This Code Template is to perform a Mask filling operation in python using the HuggingFace library. In this template, BERT Model has been demonstrated. BERT is a transformers model pre-trained on a large corpus of English data in a self-supervised fashion. BERT has originally been released in base and large variations for cased and uncased input text",
                         "URL": "https://cdn.siberian.dev/code/Natural_Language_Processing/NLP/FillMaskBERT_Cased.ipynb",
                         "keywords": "bert base model,bert model,hugging face,hugging face library,bert base cased,bert base uncased",
-                        "display_url": "https://siberian.dev/natural-language-processing/fill-mask-using-bert-base-model"
+                        "display_url": "https://siberian.dev/nlp/fill-mask-using-bert-base-model"
                     },
                     {
                         "name": "FillMaskBERT_Uncased.ipynb",
@@ -4786,7 +4786,7 @@
                         "description": "This Code Template is to perform a Mask filling operation in python using the HuggingFace library. In this template, BERT Model is utilized. BERT is a transformers model pretrained on a large corpus of English data in a self-supervised fashion. The uncased BERT models also strip out accent markers.",
                         "URL": "https://cdn.siberian.dev/code/Natural_Language_Processing/NLP/FillMaskBERT_Uncased.ipynb",
                         "keywords": "bert base model,bert model,hugging face,hugging face library,bert base uncased,bert base case",
-                        "display_url": "https://siberian.dev/natural-language-processing/fill-mask-using-bert-base-model"
+                        "display_url": "https://siberian.dev/nlp/fill-mask-using-bert-base-model"
                     },
                     {
                         "name": "FillMaskRoBERTa_Base.ipynb",
@@ -4794,7 +4794,7 @@
                         "description": "This Code Template is to perform a Mask filling operation in python using the HuggingFace library. In this template, RoBERTa Model is utilized.RoBERTa is a transformers model pretrained on a large corpus of English data in a self-supervised fashion.",
                         "URL": "https://cdn.siberian.dev/code/Natural_Language_Processing/NLP/FillMaskRoBERTa_Base.ipynb",
                         "keywords": "bert base model,bert model,hugging face,hugging face library,bert base cased,bert base uncased,roberta base model",
-                        "display_url": "https://siberian.dev/natural-language-processing/fill-mask-using-roberta-base-model"
+                        "display_url": "https://siberian.dev/nlp/fill-mask-using-roberta-base-model"
                     },
                     {
                         "name": "FillMaskRoBERTa_Large.ipynb",
@@ -4802,7 +4802,7 @@
                         "description": "This Code Template is to perform a Mask filling operation in python using the HuggingFace library. In this template, RoBERTa Model is utilized.RoBERTa is a transformers model pretrained on a large corpus of English data in a self-supervised fashion. Masked language modeling is the task of masking some of the words in a sentence and predicting which words should replace those masks.",
                         "URL": "https://cdn.siberian.dev/code/Natural_Language_Processing/NLP/FillMaskRoBERTa_Large.ipynb",
                         "keywords": "bert base model,bert model,hugging face,hugging face library,bert base cased,bert base uncased,roberta large model",
-                        "display_url": "https://siberian.dev/natural-language-processing/fill-mask-using-roberta-large-model"
+                        "display_url": "https://siberian.dev/nlp/fill-mask-using-roberta-large-model"
                     },
                     {
                         "name": "QuestionAnswer_BERT.ipynb",
@@ -4810,7 +4810,7 @@
                         "description": "This Code Template is for Question Answer Application using BRET which stands for Bidirectional Encoder Representations from Transformers.",
                         "URL": "https://cdn.siberian.dev/code/Natural_Language_Processing/NLP/QuestionAnswer_BERT.ipynb",
                         "keywords": "bert base model,bert model,hugging face,hugging face library,bert base cased,bert base uncased,bidirectional encoder",
-                        "display_url": "https://siberian.dev/natural-language-processing/question-answer-application-using-bret"
+                        "display_url": "https://siberian.dev/nlp/question-answer-application-using-bret"
                     },
                     {
                         "name": "QuestionAnswer_Roberta_base.ipynb",
@@ -4818,7 +4818,7 @@
                         "description": "This Code Template is for Question Answer Application using Roberta-base, which stands for Robustly Optimized Bidirectional Encoder Representations from Transformers.",
                         "URL": "https://cdn.siberian.dev/code/Natural_Language_Processing/NLP/QuestionAnswer_Roberta_base.ipynb",
                         "keywords": "bert base model,bert model,hugging face,hugging face library,bert base cased,bert base uncased,roberta base model",
-                        "display_url": "https://siberian.dev/natural-language-processing/question-answer-application-using-roberta-base"
+                        "display_url": "https://siberian.dev/nlp/question-answer-application-using-roberta-base"
                     },
                     {
                         "name": "TextClassificationBERT.ipynb",
@@ -4826,7 +4826,7 @@
                         "description": "This Code Template is for the Text Classification task using  Bidirectional Encoder Representations from Transformers(BERT). BERT makes use of a Transformer, an attention mechanism that learns contextual relations between words (or sub-words) in a text.",
                         "URL": "https://cdn.siberian.dev/code/Natural_Language_Processing/NLP/TextClassificationBERT.ipynb",
                         "keywords": "bert base model,bert model,hugging face,hugging face library,bert base cased,bert base uncased,bidirectional encoder representation",
-                        "display_url": "https://siberian.dev/natural-language-processing/text-classification-using-bert"
+                        "display_url": "https://siberian.dev/nlp/text-classification-using-bert"
                     },
                     {
                         "name": "TextClassification_BernoulliNB_TfidfVectorizer.ipynb",
@@ -4834,7 +4834,7 @@
                         "description": "This Code Template is for Text Classification using the BernoulliNB algorithm along with the Text Feature technique TfidfVectorizer from Scikit-learn in python.",
                         "URL": "https://cdn.siberian.dev/code/Natural_Language_Processing/NLP/TextClassification_BernoulliNB_TfidfVectorizer.ipynb",
                         "keywords": "bernoullinb,tfidf vectorizer,tf-idf features,tfidf vectorization,bernoullinb algorithm",
-                        "display_url": "https://siberian.dev/natural-language-processing/text-classification-using-bernoullinb-and-tfidf-vectorizer"
+                        "display_url": "https://siberian.dev/nlp/text-classification-using-bernoullinb-and-tfidf-vectorizer"
                     },
                     {
                         "name": "TextClassification_CNN.ipynb",
@@ -4842,7 +4842,7 @@
                         "description": "This Code Template is for Text Classification using Convolutional Neural Networks (CNN or ConvNet). A Convolutional Neural Network (ConvNet/CNN) is a Deep Learning algorithm that can take in an input, assign importance (learnable weights and biases) to various aspects/objects in the image, and be able to differentiate one from the other.",
                         "URL": "https://cdn.siberian.dev/code/Natural_Language_Processing/NLP/TextClassification_CNN.ipynb",
                         "keywords": "bernoullinb,tfidf vectorizer,tf-idf features,tfidf vectorization,bernoullinb algorithm,cnn,convolutional neural networks,convnet",
-                        "display_url": "https://siberian.dev/natural-language-processing/text-classification-using-cnn"
+                        "display_url": "https://siberian.dev/nlp/text-classification-using-cnn"
                     },
                     {
                         "name": "TextClassification_GradientBoostingClassifier_CountVectorizer.ipynb",
@@ -4850,7 +4850,7 @@
                         "description": "This Code Template is for Text Classification using GradientBoostingClassifier based on the Gradient Boosting Ensemble Learning Technique along with the Text Feature technique CountVectorizer from Scikit-learn in python. Scikit-learns CountVectorizer is used to convert a collection of text documents to a vector of term/token counts.",
                         "URL": "https://cdn.siberian.dev/code/Natural_Language_Processing/NLP/TextClassification_GradientBoostingClassifier_CountVectorizer.ipynb",
                         "keywords": "bernoullinb,tfidf vectorizer,tf-idf features,tfidf vectorization,bernoullinb algorithm,gradient boosting, gradient boosting classifier,count vectorizer",
-                        "display_url": "https://siberian.dev/natural-language-processing/text-classification-using-gradient-boosting-classifier-and-count-vectorizer"
+                        "display_url": "https://siberian.dev/nlp/text-classification-using-gradient-boosting-classifier-and-count-vectorizer"
                     },
                     {
                         "name": "TextClassification_GradientBoosting_TfidfVectorizer.ipynb",
@@ -4858,7 +4858,7 @@
                         "description": "This Code Template is for Text Classification using Gradient Boosting Classifier along with the Text Feature technique TfidfVectorizer from Scikit-learn in python. TF-IDF is used to reduce the weight of tokens that appear frequently compared to tokens that appear rarely.",
                         "URL": "https://cdn.siberian.dev/code/Natural_Language_Processing/NLP/TextClassification_GradientBoosting_TfidfVectorizer.ipynb",
                         "keywords": "bernoullinb,tfidf vectorizer,tf-idf features,tfidf vectorization,bernoullinb algorithm,gradient boosting classifier,gradient boosting",
-                        "display_url": "https://siberian.dev/natural-language-processing/text-classification-using-gradient-boosting-classifier-and-tfidf-vectorizer"
+                        "display_url": "https://siberian.dev/nlp/text-classification-using-gradient-boosting-classifier-and-tfidf-vectorizer"
                     },
                     {
                         "name": "TextClassification_LinearSVC_CountVectorizer.ipynb",
@@ -4866,7 +4866,7 @@
                         "description": "This Code Template is for Text Classification using LinearSVC based on the Support Vector Machine Algorithm along with the Text Feature technique CountVectorizer from Scikit-learn in python. CountVectorizer creates a matrix in which each unique word is represented by a column of the matrix, and each text sample from the document is a row in the matrix.",
                         "URL": "https://cdn.siberian.dev/code/Natural_Language_Processing/NLP/TextClassification_LinearSVC_CountVectorizer.ipynb",
                         "keywords": "bernoullinb,tfidf vectorizer,tf-idf features,tfidf vectorization,bernoullinb algorithm,linearsvc, svc, count vectorizer,vector machine algorithm",
-                        "display_url": "https://siberian.dev/natural-language-processing/text-classification-using-linearsvc-and-count-vectorizer"
+                        "display_url": "https://siberian.dev/nlp/text-classification-using-linearsvc-and-count-vectorizer"
                     },
                     {
                         "name": "TextClassification_LinearSVC_TfidfVectorizer.ipynb",
@@ -4874,7 +4874,7 @@
                         "description": "This Code Template is for Text Classification using LinearSVC based on the Support Vector Machine Algorithm along with the Text Feature technique TfidfVectorizer from Scikit-learn in python. One can import the TfidfVectorizer function from preprocessing class.",
                         "URL": "https://cdn.siberian.dev/code/Natural_Language_Processing/NLP/TextClassification_LinearSVC_TfidfVectorizer.ipynb",
                         "keywords": "bernoullinb,tfidf vectorizer,tf-idf features,tfidf vectorization,bernoullinb algorithm,linearsvc, svc, count vectorizer,vector machine algorithm",
-                        "display_url": "https://siberian.dev/natural-language-processing/text-classification-using-linearsvc-and-tfidf-vectorizer"
+                        "display_url": "https://siberian.dev/nlp/text-classification-using-linearsvc-and-tfidf-vectorizer"
                     },
                     {
                         "name": "TextClassification_LSTM.ipynb",
@@ -4882,7 +4882,7 @@
                         "description": "This Code Template is for Text Classification using Long short-term memory in python. LSTMs are explicitly designed to avoid the long-term dependency problem. Remembering information for long periods is practically their default behavior, not something they struggle to learn.",
                         "URL": "https://cdn.siberian.dev/code/Natural_Language_Processing/NLP/TextClassification_LSTM.ipynb",
                         "keywords": "lstm,long short term memory,multi text classification,lstm architecture,bi-lstm",
-                        "display_url": "https://siberian.dev/natural-language-processing/text-classification-using-lstm"
+                        "display_url": "https://siberian.dev/nlp/text-classification-using-lstm"
                     },
                     {
                         "name": "TextClassification_MultinomialNB_CountVectorizer.ipynb",
@@ -4890,7 +4890,7 @@
                         "description": "This Code Template is for Text Classification using MultinomialNB based on the Naive Bayes algorithm for multinomially distributed data along with the Text Feature technique CountVectorizer from Scikit-learn in python. CountVectorizer creates a matrix in which each unique word is represented by a column of the matrix, and each text sample from the document is a row in the matrix.",
                         "URL": "https://cdn.siberian.dev/code/Natural_Language_Processing/NLP/TextClassification_MultinomialNB_CountVectorizer.ipynb",
                         "keywords": "multinomialnb,countvectorizer,multinomial naive bayes,navie bayes,navie bayes classification",
-                        "display_url": "https://siberian.dev/natural-language-processing/text-classification-using-multinomialnb-and-count-vectorizer"
+                        "display_url": "https://siberian.dev/nlp/text-classification-using-multinomialnb-and-count-vectorizer"
                     },
                     {
                         "name": "TextClassification_MultinomialNB_TfidfVectorizer.ipynb",
@@ -4898,7 +4898,7 @@
                         "description": "This Code Template is for Text Classification using the MultinomialNB algorithm along with the Text Feature technique TfidfVectorizer from Scikit-learn in python.",
                         "URL": "https://cdn.siberian.dev/code/Natural_Language_Processing/NLP/TextClassification_MultinomialNB_TfidfVectorizer.ipynb",
                         "keywords": "multinomialnb,tfidf,multinomial naive bayes,navie bayes,navie bayes classification",
-                        "display_url": "https://siberian.dev/natural-language-processing/text-classification-using-multinomialnb-and-tfidf-vectorizer"
+                        "display_url": "https://siberian.dev/nlp/text-classification-using-multinomialnb-and-tfidf-vectorizer"
                     },
                     {
                         "name": "TextClassification_RandomForestClassifier_CountVectorizer.ipynb",
@@ -4906,7 +4906,7 @@
                         "description": "This Code Template is for Text Classification using RandomForestClassifier and CountVectorizer from Scikit-learn in python. Scikit-learns CountVectorizer is used to convert a collection of text documents to a vector of term/token counts.",
                         "URL": "https://cdn.siberian.dev/code/Natural_Language_Processing/NLP/TextClassification_RandomForestClassifier_CountVectorizer.ipynb",
                         "keywords": "random forest classifier,countvectorizer,random forest classifier sklearn,random forest algorithm",
-                        "display_url": "https://siberian.dev/natural-language-processing/text-classification-using-random-forest-classifier-and-count-vectorizer"
+                        "display_url": "https://siberian.dev/nlp/text-classification-using-random-forest-classifier-and-count-vectorizer"
                     },
                     {
                         "name": "TextClassification_RandomForestClassifier_TfidfVectorizer.ipynb",
@@ -4914,7 +4914,7 @@
                         "description": "This Code Template is for Text Classification using Random Forest Classifier along with the Text Feature technique TfidfVectorizer from Scikit-learn in python.",
                         "URL": "https://cdn.siberian.dev/code/Natural_Language_Processing/NLP/TextClassification_RandomForestClassifier_TfidfVectorizer.ipynb",
                         "keywords": "random forest classifier,tfidf,random forest classifier sklearn,random forest algorithm",
-                        "display_url": "https://siberian.dev/natural-language-processing/text-classification-using-random-forest-classifier-and-tfidf-vectorizer"
+                        "display_url": "https://siberian.dev/nlp/text-classification-using-random-forest-classifier-and-tfidf-vectorizer"
                     },
                     {
                         "name": "TextClassification_SVC_CountVectorizer.ipynb",
@@ -4922,7 +4922,7 @@
                         "description": "This Code Template is for Text Classification using SVC based on the Support Vector Machine Algorithm along with the Text Feature technique CountVectorizer from Scikit-learn in python. Countvectorizer makes it easy for text data to be used directly in machine learning and deep learning models such as text classification.",
                         "URL": "https://cdn.siberian.dev/code/Natural_Language_Processing/NLP/TextClassification_SVC_CountVectorizer.ipynb",
                         "keywords": "svc,countvectorizer,support vector classifer,svc algorithm,support vector machine algorithm",
-                        "display_url": "https://siberian.dev/natural-language-processing/text-classification-using-svc-and-count-vectorizer"
+                        "display_url": "https://siberian.dev/nlp/text-classification-using-svc-and-count-vectorizer"
                     },
                     {
                         "name": "TextClassification_SVC_TfidfVectorizer.ipynb",
@@ -4930,7 +4930,7 @@
                         "description": "This Code Template is for Text Classification using SVC based on the Support Vector Machine Algorithm along with the Text Feature technique TfidfVectorizer from Scikit-learn in python. TF-IDF  method is a widely used technique in Information Retrieval and Text Mining.",
                         "URL": "https://cdn.siberian.dev/code/Natural_Language_Processing/NLP/TextClassification_SVC_TfidfVectorizer.ipynb",
                         "keywords": "svc,countvectorizer,support vector classifer,svc algorithm,support vector machine algorithm,tfidfvectorizer,svm algorithm",
-                        "display_url": "https://siberian.dev/natural-language-processing/text-classification-using-svc-and-tfidf-vectorizer"
+                        "display_url": "https://siberian.dev/nlp/text-classification-using-svc-and-tfidf-vectorizer"
                     },
                     {
                         "name": "TextClassification_XGBoost_CountVectorizer.ipynb",
@@ -4938,7 +4938,7 @@
                         "description": "This Code Template is for Text Classification using XGBoost along with the Text Feature technique CountVectorizer from Scikit-learn in python. CountVectorizer is used to transform a given text into a vector based on the frequency (count) of each word that occurs in the entire text.",
                         "URL": "https://cdn.siberian.dev/code/Natural_Language_Processing/NLP/TextClassification_XGBoost_CountVectorizer.ipynb",
                         "keywords": "xgboost,countvectorizer,xgboost algorithm,xgboost classifer,xgboost sklearn,countvectorizer sklearn",
-                        "display_url": "https://siberian.dev/natural-language-processing/text-classification-using-xgboost-and-count-vectorizer"
+                        "display_url": "https://siberian.dev/nlp/text-classification-using-xgboost-and-count-vectorizer"
                     },
                     {
                         "name": "TextClassification_XGBoost_TfidfVectorizer.ipynb",
@@ -4946,7 +4946,7 @@
                         "description": "This Code Template is for Text Classification using XGBoost along with the Text Feature technique TfidfVectorizer from Scikit-learn in python. TF-IDF stands for Term Frequency  Inverse Document Frequency. It is a technique to quantify words in a set of documents.",
                         "URL": "https://cdn.siberian.dev/code/Natural_Language_Processing/NLP/TextClassification_XGBoost_TfidfVectorizer.ipynb",
                         "keywords": "xgboost,tfidf,xgboost algorithm,xgboost classifer,xgboost sklearn,countvectorizer sklearn,tfidf vectorizer",
-                        "display_url": "https://siberian.dev/natural-language-processing/text-classification-using-xgboost-and-tfidf-vectorizer"
+                        "display_url": "https://siberian.dev/nlp/text-classification-using-xgboost-and-tfidf-vectorizer"
                     },
                     {
                         "name": "TextEmotionDetection _text2emotion.ipynb",
@@ -4954,7 +4954,7 @@
                         "description": "This Code Template is for Text Emotion Detection using the text2emotion technique.",
                         "URL": "https://cdn.siberian.dev/code/Natural_Language_Processing/NLP/TextEmotionDetection _text2emotion.ipynb",
                         "keywords": "text emotion detection,text2emotion,huggingface",
-                        "display_url": "https://siberian.dev/natural-language-processing/text-emotion-detection-using-text2emotion"
+                        "display_url": "https://siberian.dev/nlp/text-emotion-detection-using-text2emotion"
                     },
                     {
                         "name": "TextGenerationGPT2.ipynb",
@@ -4962,7 +4962,7 @@
                         "description": "This Code Template is for the Text Generation task, which is a problem associated with NLG(Natural Language Generation). In this Project, GPT-2 is utilized for Text Generation. GPT-2 is a transformers model pre-trained on a very large corpus of English data in a self-supervised fashion. GPT-2 is an acronym for Generative Pretrained Transformer 2.",
                         "URL": "https://cdn.siberian.dev/code/Natural_Language_Processing/NLP/TextGenerationGPT2.ipynb",
                         "keywords": "gpt-2,text generation,generative pretrained transformer,hugging face,nlg,natural language generation",
-                        "display_url": "https://siberian.dev/natural-language-processing/text-generation-using-gpt2"
+                        "display_url": "https://siberian.dev/nlp/text-generation-using-gpt2"
                     },
                     {
                         "name": "TextGenerationGPTNEO125M.ipynb",
@@ -4970,7 +4970,7 @@
                         "description": "This Code Template is for the Text Generation task, which is a problem associated with NLG(Natural Language Generation). In this Project, GPT Neo 125M is utilized for Text Generation. GPT-Neo 125M is a transformer model designed using EleutherAI's replication of the GPT-3 architecture.",
                         "URL": "https://cdn.siberian.dev/code/Natural_Language_Processing/NLP/TextGenerationGPTNEO125M.ipynb",
                         "keywords": "gpt-2,text generation,generative pretrained transformer,hugging face,nlg,natural language generation,gpt neo,gpt-neo 125m",
-                        "display_url": "https://siberian.dev/natural-language-processing/nlp/text-generation-using-gpt-neo-125m"
+                        "display_url": "https://siberian.dev/nlp/text-generation-using-gpt-neo-125m"
                     },
                     {
                         "name": "TextGenerationGPTNEO1_3B.ipynb",
@@ -4978,7 +4978,7 @@
                         "description": "This Code Template is for the Text Generation task which is a problem associated with NLG(Natural Language Generation). In this Project, GPT Neo 2.7B is utilized for Text Generation. The model is based on OpenAI's GPT-3 model.",
                         "URL": "https://cdn.siberian.dev/code/Natural_Language_Processing/NLP/TextGenerationGPTNEO1_3B.ipynb",
                         "keywords": "gpt-2,text generation,generative pretrained transformer,hugging face,nlg,natural language generation,gpt neo,gpt-neo 2.7b",
-                        "display_url": "https://siberian.dev/natural-language-processing/text-generation-using-gpt-neo-2.7b"
+                        "display_url": "https://siberian.dev/nlp/text-generation-using-gpt-neo-2.7b"
                     },
                     {
                         "name": "TextSummarizationDistilBART.ipynb",
@@ -4986,7 +4986,7 @@
                         "description": "This Code Template is for the Text Summarization task, one of the problems associated with NLP(Natural Language Processing). In this Code template, DistilBART pre-trained model is utilized, which is a transformer-based model.",
                         "URL": "https://cdn.siberian.dev/code/Natural_Language_Processing/NLP/TextSummarizationDistilBART.ipynb",
                         "keywords": "nlp,distilbart,bert,distilbart,natural language processing",
-                        "display_url": "https://siberian.dev/natural-language-processing/text-summarization-using-distilbart"
+                        "display_url": "https://siberian.dev/nlp/text-summarization-using-distilbart"
                     },
                     {
                         "name": "TextSummarizationPegasus.ipynb",
@@ -4994,7 +4994,7 @@
                         "description": "This Code template is for text summarization using the Transformer based model Pegasus from the HugginFace library. PEGASUS uses an encoder-decoder model for sequence-to-sequence learning.",
                         "URL": "https://cdn.siberian.dev/code/Natural_Language_Processing/NLP/TextSummarizationPegasus.ipynb",
                         "keywords": "pegasus,huggingface,pegasus model,bert,bert model",
-                        "display_url": "https://siberian.dev/natural-language-processing/text-summarization-using-pegasus"
+                        "display_url": "https://siberian.dev/nlp/text-summarization-using-pegasus"
                     }
                 ]
             }
