@@ -5319,7 +5319,7 @@
                         "description": "This Code template is for the regression analysis using a simple KNeighborsRegressor based on the K-Nearest Neighbors algorithm.",
                         "URL": "https://cdn.siberian.dev/code/Regression/k-Nearest_Neighbor/KNeighborsRegressor.ipynb",
                         "keywords": "regression,simple,kneighborsregressor,knearestneighbors,",
-                        "display_url": "https://siberian.dev/regression/knn-regressor"
+                        "display_url": "https://siberian.dev/regression/knn-regression"
                     },
                     {
                         "name": "KNeighborsRegressor_MinMaxScaler.ipynb",
@@ -5327,7 +5327,7 @@
                         "description": "This Code template is for the regression analysis using a simple KNeighborsRegressor based on the K-Nearest Neighbors algorithm and feature rescaling technique MinMaxScaler in a pipeline.",
                         "URL": "https://cdn.siberian.dev/code/Regression/k-Nearest_Neighbor/KNeighborsRegressor_MinMaxScaler.ipynb",
                         "keywords": "regression,simple,kneighborsregressor,knearestneighbors,rescalingtechnique,minmaxscaler,pipeline",
-                        "display_url": "https://siberian.dev/regression/knn-minmaxscaler"
+                        "display_url": "https://siberian.dev/regression/knn-regression-minmaxscaler"
                     },
                     {
                         "name": "KNeighborsRegressor_Normalize.ipynb",
@@ -5335,7 +5335,7 @@
                         "description": "This Code template is for the regression analysis using a simple KNeighborsRegressor based on the K-Nearest Neighbors algorithm using feature scaling via Normalizer.",
                         "URL": "https://cdn.siberian.dev/code/Regression/k-Nearest_Neighbor/KNeighborsRegressor_Normalize.ipynb",
                         "keywords": "regression,simple,kneighborsregressor,knearestneighbors,scaling,normalizer",
-                        "display_url": "https://siberian.dev/regression/knn-normalization"
+                        "display_url": "https://siberian.dev/regression/knn-regression-normalization"
                     },
                     {
                         "name": "KNeighborsRegressor_Normalize_PolynomialFeatures.ipynb",
@@ -5367,7 +5367,7 @@
                         "description": "This Code template is for the regression analysis using a simple KNeighborsRegressor where feature transformation is done using Polynomial features in a pipeline.",
                         "URL": "https://cdn.siberian.dev/code/Regression/k-Nearest_Neighbor/KNeighborsRegressor_PolynomialFeatures.ipynb",
                         "keywords": "regression,simple,kneighborsregressor,datatranformation,polynomial,s,pipeline",
-                        "display_url": "https://siberian.dev/regression/knn-polynomial-features"
+                        "display_url": "https://siberian.dev/regression/knn-regression-polynomial-features"
                     },
                     {
                         "name": "KNeighborsRegressor_PowerTransformer.ipynb",
@@ -5375,7 +5375,7 @@
                         "description": "This Code template is for the regression analysis using a simple KNeighborsRegressor where feature transformation is done using PowerTransformer in a pipeline.",
                         "URL": "https://cdn.siberian.dev/code/Regression/k-Nearest_Neighbor/KNeighborsRegressor_PowerTransformer.ipynb",
                         "keywords": "regression,simple,kneighborsregressor,datatranformation,powertransformer,pipeline",
-                        "display_url": "https://siberian.dev/regression/knn-power-transformer"
+                        "display_url": "https://siberian.dev/regression/knn-regression-power-transformer"
                     },
                     {
                         "name": "KNeighborsRegressor_QuantileTransformer.ipynb",
@@ -5383,7 +5383,7 @@
                         "description": "This Code template is for the regression analysis using a simple KNeighborsRegressor where feature transformation is done using Quantile Transformer in a pipeline.",
                         "URL": "https://cdn.siberian.dev/code/Regression/k-Nearest_Neighbor/KNeighborsRegressor_QuantileTransformer.ipynb",
                         "keywords": "regression,simple,kneighborsregressor,datatranformation,quantiletransformer,pipeline",
-                        "display_url": "https://siberian.dev/regression/knn-quantile-transformer"
+                        "display_url": "https://siberian.dev/regression/knn-regression-quantile-transformer"
                     },
                     {
                         "name": "KNeighborsRegressor_RobustScaler.ipynb",
@@ -5391,7 +5391,7 @@
                         "description": "This Code template is for the regression analysis using a simple KNeighborsRegressor based on the K-Nearest Neighbors algorithm and feature rescaling technique RobustScaler in a pipeline.",
                         "URL": "https://cdn.siberian.dev/code/Regression/k-Nearest_Neighbor/KNeighborsRegressor_RobustScaler.ipynb",
                         "keywords": "regression,simple,kneighborsregressor,knearestneighbors,rescalingtechnique,robustscaler,pipeline",
-                        "display_url": "https://siberian.dev/regression/knn-robustscaler"
+                        "display_url": "https://siberian.dev/regression/knn-regression-robustscaler"
                     },
                     {
                         "name": "KNeighborsRegressor_RobustScaler_QuantileTransformer.ipynb",
@@ -5431,7 +5431,7 @@
                         "description": "This Code template is for the regression analysis using a simple KNeighborsRegressor based on the K-Nearest Neighbors algorithm and feature rescaling technique StandardScaler in a pipeline.",
                         "URL": "https://cdn.siberian.dev/code/Regression/k-Nearest_Neighbor/KNeighborsRegressor_StandardScaler.ipynb",
                         "keywords": "regression,simple,kneighborsregressor,knearestneighbors,rescalingtechnique,standardscaler,pipeline",
-                        "display_url": "https://siberian.dev/regression/knn-standardscaler"
+                        "display_url": "https://siberian.dev/regression/knn-regression-standardscaler"
                     },
                     {
                         "name": "KNeighborsRegressor_StandardScaler_PolynomialFeatures.ipynb",
