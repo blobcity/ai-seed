@@ -1,0 +1,4068 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+	<loc>https://siberian.dev/anomaly-detection/abod</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/abod-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/abod-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/autoencoder</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/autoencoder-maxabsscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/autoencoder-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/clustering-based-outlier-detection</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/clustering-based-outlier-detection-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/clustering-based-outlier-detection-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/copod</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/copod-maxabsscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/copod-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/copod-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/deep-one-class-classification</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/deep-one-class-classification-maxabsscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/deep-one-class-classification-minmaxscaler
+</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/deep-one-class-classification-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/deep-one-class-classification-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/histogram-based-outlier-detection</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/histogram-based-outlier-detection-maxabsscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/histogram-based-outlier-detection-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/histogram-based-outlier-detection-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/isolation-forest</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/isolation-forest-maxabsscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/isolation-forest-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/isolation-forest-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/isolation-forest-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/knn-detection</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/knn-detection-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/knn-detection-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/loda</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/loda-maxabsscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/loda-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/loda-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/local-outlier-factor</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/local-outlier-factor-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/minimum-covariance-determinant</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/minimum-covariance-determinant-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/minimum-covariance-determinant-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/multi-objective-generative-adversarial-active-learning-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/multi-objective-generative-adversarial-active-learning-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/one-class-svm</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/one-class-svm-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/one-class-svm-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/one-class-svm-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/principal-component-analysis-outlier-detection</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/principal-component-analysis-outlier-detection-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/principal-component-analysis-outlier-detection-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/single-objective-generative-adversarial-active-learning</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/single-objective-generative-adversarial-active-learning-maxabsscaler</loc>
+	<lastmod>2022-12-13</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/single-objective-generative-adversarial-active-learning-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/single-objective-generative-adversarial-active-learning-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/single-objective-generative-adversarial-active-learning-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/variational-autoencoder-vae</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/variational-autoencoder-vae-maxabsscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/variational-autoencoder-vae-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/anomaly-detection/variational-autoencoder-vae-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/audio-visual/license-plate-detection-using-opencv</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/audio-visual/license-plate-detection-using-opencv-and-ocr</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/audio-visual/license-plate-detection-using-opencv-using-python</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/audio-visual/eye-detection-using-opencv-using-python</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/audio-visual/eye-detection-using-opencv-in-video</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/audio-visual/face-age-detection-using-opencv</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/audio-visual/face-detection-using-opencv-in-python</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/audio-visual/face-detection-using-opencv-in-video</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/audio-visual/hand-gesture-detection-using-opencv</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/audio-visual/image-classification-using-xgboost</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/audio-visual/image-classification-using-ann</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/audio-visual/image-classification-using-cnn</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/audio-visual/image-classification-using-densenet121</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/audio-visual/image-classification-using-densenet201</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/audio-visual/image-classification-using-efficientnet</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/audio-visual/image-classification-using-inception-resnetv2</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/audio-visual/image-classification-using-inceptionv3</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/audio-visual/image-classification-using-knearest-neighbors-classifier</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/audio-visual/image-classification-using-linearSVC</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/audio-visual/image-classification-using-mlp</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/audio-visual/image-classification-using-mobilenetv2</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/audio-visual/image-classification-using-nasnet-large</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/audio-visual/image-classification-using-nusvc</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/audio-visual/image-classification-using-perceptron</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/audio-visual/image-classification-using-resnet101</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/audio-visual/image-classification-using-resnet152</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/audio-visual/image-classification-using-resnet50</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/audio-visual/image-classification-using-svc</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/audio-visual/image-classification-using-vgg16</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/audio-visual/image-classification-using-vgg19</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/audio-visual/motion-detection-using-opencv</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/audio-visual/object-detection-using-opencv-using-python</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/audio-visual/object-detection-using-opencv-in-video</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/audio-visual/text-detection-in-video-using-ocr</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/audio-visual/text-detection-using-ocr</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/audio-visual/traffic-sign-recognition-using-opencv</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/adaboost-classifier</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/adaboost-classifier-maxabsscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/adaboost-classifier-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/adaboost-classifier-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/adaboost-classifier-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/adaboost-classifier-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/adaboost-classifier-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/catboost-classifier</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/catboost-classifier-maxabsscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/catboost-classifier-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/catboost-classifier-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/catboost-classifier-using-pool</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/catboost-classifier-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/decision-tree-classification</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/decision-tree-classification-maxabsscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/decision-tree-classification-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/decision-tree-classification-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/decision-tree-classification-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/decision-tree-classification-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/decision-tree-classification-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/extra-tree-classifier</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/extra-tree-classifier-maxabsscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/extra-tree-classifier-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/extra-tree-classifier-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/extra-tree-classifier-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/extra-tree-classifier-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/extra-tree-classifier-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/gradient-boosting-classifier</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/gradient-boosting-classifier-maxabsscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/gradient-boosting-classifier-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/gradient-boosting-classifier-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/gradient-boosting-classifier-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/gradient-boosting-classifier-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/gradient-boosting-classifier-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/histogram-based-gradient-boosting</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/histogram-based-gradient-boosting-maxaabsscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/histogram-based-gradient-boosting-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/histogram-based-gradient-boosting-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/histogram-based-gradient-boosting-roubustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/histogram-based-gradient-boosting-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/histogram-based-gradient-boosting-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/knn-classifier</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/knn-classifier-maxabsscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/knn-classifier-maxabsscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/knn-classifier-maxabsscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/knn-classifier-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/knn-classifier-minmaxscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/knn-classifier-minmaxscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/knn-classifier-minmaxscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/knn-classifier-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/knn-classifier-normalization-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/knn-classifier-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/knn-classifier-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/knn-classifier-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/knn-classifier-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/knn-classifier-robustscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/knn-classifier-robustscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/knn-classifier-robustscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/knn-classifier-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/knn-classifier-scale-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/knn-classifier-scale-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/knn-classifier-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/knn-classifier-standardscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/knn-classifier-standardscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/knn-classifier-standardscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/lgbm-classifier</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/lgbm-classifier-maxabsscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/lgbm-classifier-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/lgbm-classifier-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/lgbm-classifier-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/logistic-regression</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/logistic-regression-maxabsscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/logistic-regression-maxabsscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/logistic-regression-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/logistic-regression-minmaxscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/logistic-regression-minmaxscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/logistic-regression-minmaxscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/logistic-regression-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/logistic-regression-normalization-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/logistic-regression-normalization-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/logistic-regression-normalization-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/logistic-regression-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/logistic-regression-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/logistic-regression-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/logistic-regression-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/logistic-regression-robustscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/logistic-regression-robustscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/logistic-regression-robustscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/logistic-regression-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/logistic-regression-scale-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/logistic-regression-scale-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/logistic-regression-scale-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/logistic-regression-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/logistic-regression-standardscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/logistic-regression-standardscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/logistic-regression-standardscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/perceptron-classifier</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/perceptron-classifier-maxabsscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/perceptron-classifier-maxabsscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/perceptron-classifier-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/perceptron-classifier-minmaxscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/perceptron-classifier-minmaxscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/perceptron-classifier-minmaxscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/perceptron-classifier-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/perceptron-classifier-normalization-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/perceptron-classifier-normalization-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/perceptron-classifier-normalization-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/perceptron-classifier-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/perceptron-classifier-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/perceptron-classifier-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/perceptron-classifier-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/perceptron-classifier-robustscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/perceptron-classifier-robustscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/perceptron-classifier-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/perceptron-classifier-robustscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/perceptron-classifier-robustscaler-and-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/perceptron-classifier-scale-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/ai-templates/perceptron-classifier-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/perceptron-classifier-standardscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/perceptron-classifier-standardscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/perceptron-classifier-standardscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/ridge-classifier</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/ridge-classifier-maxabsscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/ridge-classifier-maxabsscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/ridge-classifier-maxabsscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/ridge-classifier-minmaxscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/ridge-classifier-minmaxscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/ridge-classifier-minmaxscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/ridge-classifier-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/ridge-classifier-normalization-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/ridge-classifier-normalization-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/ridge-classifier-normalization-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/ridge-classifier-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/ridge-classifier-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/ridge-classifier-robustscaler-and-pipeline</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/ridge-classifier-robustscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/ridge-classifier-robustscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/ridge-classifier-robustscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/ridge-classifier-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/ridge-classifier-scale-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/ridge-classifier-scale-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/ridge-classifier-scale-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/ridge-classifier-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/ridge-classifier-standardscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/ridge-classifier-standardscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/ridge-classifier-standardscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/sgd-classifier</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/sgd-classifier-maxabsscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/sgd-classifier-maxabsscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/sgd-classifier-maxabsscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/sgd-classifier-maxabsscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/sgd-classifier-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/sgd-classifier-minmaxscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/sgd-classifier-minmaxscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/sgd-classifier-minmaxscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/sgd-classifier-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/sgd-classifier-normalization-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/sgd-classifier-normalization-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/sgd-classifier-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/sgd-classifier-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/sgd-classifier-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/sgd-classifier-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/sgd-classifier-robustscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/sgd-classifier-robustscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/sgd-classifier-robustscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/sgd-classifier-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/sgd-classifier-scale-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/sgd-classifier-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/sgd-classifier-standardscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/sgd-classifier-standardscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/sgd-classifier-standardscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/bernoulli-naive-bayes-classifier</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/bernoulli-naive-bayes-classifier-maxabsscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/bernoulli-naive-bayes-classifier-maxabsscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/bernoulli-naive-bayes-classifier-maxabsscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/bernoulli-naive-bayes-classifier-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/bernoulli-naive-bayes-classifier-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/bernoulli-naive-bayes-classifier-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/bernoulli-naive-bayes-classifier-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/bernoulli-naive-bayes-classifier-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/bernoulli-naive-bayes-classifier-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/bernoulli-naive-bayes-classifier-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/bernoulli-naive-bayes-classifier-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/categorical-naive-bayes</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/categorical-naive-bayes-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/categorical-naive-bayes-minmaxscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/gaussian-naive-bayes</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/gaussian-navie-bayes-maxabsscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/gaussian-naive-bayes-maxabsscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/gaussian-naive-bayes-maxabsscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/gaussian-navie-bayes-maxabsscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/gaussian-naive-bayes-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/gaussian-naive-bayes-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/gaussian-naive-bayes-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/gaussian-naive-bayes-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/gaussian-naive-bayes-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/gaussian-naive-bayes-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/gaussian-naive-bayes-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/gaussian-naive-bayes-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/multinomial-naive-bayes-classifier</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/multinomial-naive-bayes-classifier-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/multinomial-naive-bayes-classifier-minmaxscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/nearest-centroid-classifier</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/nearest-centroid-classifier-maxabsscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/nearest-centroid-classifier-maxabsscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/nearest-centroid-classifier-maxabsscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/nearest-centroid-classifier-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/nearest-centroid-classifier-minmaxscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/nearest-centroid-classifier-minmaxscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/nearest-centroid-classifier-minmaxscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/nearest-centroid-classifier-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/nearest-centroid-classifier-normalization-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/nearest-centroid-classifiier-normalization-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/nearest-centroid-normalization-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/nearest-centroid-classifier-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/nearest-centroid-classifier-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/nearest-centroid-classifier-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/nearest-centroid-classifier-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/nearest-centroid-classifier-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/nearest-centroid-classifier-scale-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/nearest-centroid-classifier-scale-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/nearest-centroid-classifier-scale-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/nearest-centroid-classifier-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/nearest-centroid-classifier-standardscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/nearest-centroid-classifier-standardscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/nearest-centroid-classifier-standardscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/stacking-classifier</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/radius-neighbors-classifier</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/radius-neighbors-classifier-maxabsscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/radius-neighbors-classifier-maxabsscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/radius-neighbors-classifier-maxabsscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/radius-neighbors-classifier-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/radius-neighbors-classifier-minmaxscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/radius-neighbors-classifier-minmaxscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/radius-neighbors-classifier-minmaxscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/radius-neighbors-classifier-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/radius-neighbors-classifier-normalization-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/radius-neighbors-classifier-normalization-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/radius-neighbors-classifier-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/radius-neighbors-classifier-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/radius-neighbors-classifier-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/radius-neighbors-classifier-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/radius-neighbors-classifier-robustscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/radius-neighbors-classifier-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/radius-neighbors-classifier-scale-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/radius-neighbors-classifier-scale-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/radius-neighbors-classifier-scale-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/radius-neighbors-classifier-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/radius-neighbors-classifier-standardscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/radius-neighbors-classifier-standardscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/radius-neighbors-classifier-standardscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/random-forest-classifier</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/random-forest-classifier-maxabsscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/random-forest-classifier-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/random-forest-classifier-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/random-forest-classifier-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/random-forest-classifier-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/linear-svc</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/linear-svc-maxabsscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/linear-svc-maxabsscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/linear-svc-maxabsscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification//linear-svc-maxabsscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/linear-svc-minmaxscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/linear-svc-minmaxscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/linear-svc-minmaxscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/linear-svc-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/linear-svc-scale-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/linear-svc-normalization-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/linear-svc-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/linear-svc-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/linear-svc-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/linear-svc-robustscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/linear-svc-robustscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/linear-svc-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/linear-svc-scale-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/linear-svc-scale-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/linear-svc-scale-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/linear-svc-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/linear-svc-standardscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/linear-svc-standardscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/linear-svc-standardscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/nusvc</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/nusvc-maxabsscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/nusvc-maxabsscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/nusvc-maxabsscaler-and-power-tranformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/nusvc-maxabsscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/nusvc-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/nusvc-minmaxscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/nusvc-minmaxscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/nusvc-minmaxscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/nusvc-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/nusvc-normalization-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/nusvc-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/nusvc-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/nusvc-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/nusvc-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/nusvc-robustscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/nusvc-robust-scaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/nusvc-robustscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/nusvc-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/nusvc-scale-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/nusvc-scale-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/nusvc-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/nusvc-standardscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/nusvc-standardscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/nusvc-standardscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/svc</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/svc-maxabsscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/svc-maxabsscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/svc-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/svc-minmaxscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/svc-minmaxscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/svc-minmaxscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/svc-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/svc-normalization-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/svc-normalization-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/svc-normalization-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/svc-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/svc-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/svc-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/svc-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/svc-robustscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/svc-robustscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/svc-robustscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/svc-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/svc-scale-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/svc-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/svc-standardscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/svc-standardscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/svc-standardscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/xgboost-classifier</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/xgboost-classifier-dmatrix</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/xgboost-classifier-maxabsscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/xgboost-classifier-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/xgboost-classifier-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/classification/xgboost-classifier-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/affinity-propagation</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/affinity-propagation-maxabsscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/affinity-propagation-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/affinity-propagation-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/affinity-propagation-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/affinity-propagation-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/affinity-propagation-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/agglomerative-clustering</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/agglomerative-clustering-maxabsscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/agglomerative-clustering-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/agglomerative-clustering-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/agglomerative-clustering-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/agglomerative-clustering-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/agglomerative-clustering-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/birch-clustering</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/birch-clustering-maxabsscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/birch-clustering-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/birch-clustering-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/birch-clustering-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/birch-clustering-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/birch-clustering-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/dbscan</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/dbscan-maxabsscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/dbscan-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/dbscan-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/dbscan-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/dbscan-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/dbscan-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/kmeans-clustering</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/kmeans-clustering-maxabsscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/kmeans-clustering-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/kmeans-clustering-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/kmeans-clustering-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/kmeans-clustering-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/kmeans-clustering-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/mean-shift</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/mean-shift-maxabsscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/mean-shift-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/mean-shift-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/mean-shift-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/mean-shift-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/mean-shift-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/mini-batch-kmeans</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/mini-batch-kmeans-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/mini-batch-kmeans-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/mini-batch-kmeans-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/mini-batch-kmeans-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/optics-clustering</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/optics-clustering-maxabsscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/optics-clustering-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/optics-clustering-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/optics-clustering-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/optics-clustering-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/optics-clustering-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/spectral-clustering</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/spectral-clustering-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/clustering/spectral-clustering-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/isomap</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/isomap-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/isomap-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/isomap-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/lle</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/lle-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/lle-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/lle-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/lle-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/incremental-pca</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/incremental-pca-maxabsscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/incremental-pca-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/incremental-pca-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/incremental-pca-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/incremental-pca-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/incremental-pca-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/kernel-pca</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/kernel-pca-maxabsscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/kernel-pca-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/kernel-pca-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/kernel-pca-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/kernel-pca-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/mini-batch-sparse-pca</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/mini-batch-sparse-pca-maxabsscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/mini-batch-sparse-pca-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/mini-batch-sparse-pca-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/mini-batch-sparse-pca-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/mini-batch-sparse-pca-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/mini-batch-sparse-pca-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/pca</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/pca-maxabsscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/pca-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/pca-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/pca-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/pca-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/pca-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/sparse-pca</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/sparse-pca-maxabsscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/sparse-pca-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/sparse-pca-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/sparse-pca-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/sparse-pca-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/sparse-pca-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/spectral-embedding</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/spectral-embedding-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/spectral-embedding-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/spectral-embedding-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/truncated-svd</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/truncated-svd-maxabsscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/truncated-svd-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/truncated-svd-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/truncated-svd-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/truncated-svd-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/truncated-svd-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/tsne</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/tsne-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/tsne-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/tsne-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/dimensionality-reduction/tsne-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/eda/auto-visualization-using-autoviz</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/eda/auto-visualization-using-dataprep</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/eda/auto-visualization-using-pandas-visual-analysis</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/eda/auto-visualization-using-pandas-profiling</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/eda/auto-visualization-using-sweetviz</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/eda/visualization-using-correlation-plot</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/eda/visualization-using-histogram</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/eda/auto-visualization-using-pairwise-plot</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/eda/visualization-using-scatter-plot</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/eda/visualization-using-violen-plot</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/eda/visualization-using-wordcloud</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/nlp/fill-mask-using-bert-base-model-cased</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/nlp/fill-mask-using-bert-base-model-uncased</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/nlp/fill-mask-using-roberta-base-model</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/nlp/fill-mask-using-roberta-large-model</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/nlp/question-answer-application-using-bret</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/nlp/question-answer-application-using-roberta-base</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/nlp/text-classification-using-bert</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/nlp/text-classification-using-bernoullinb-and-tfidf-vectorizer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/nlp/text-classification-using-cnn</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/nlp/text-classification-using-gradient-boosting-classifier-and-count-vectorizer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/nlp/text-classification-using-gradient-boosting-classifier-and-tfidf-vectorizer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/nlp/text-classification-using-linear-svcand-count-vectorizer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/nlp/text-classification-using-linear-svc-and-tfidf-vectorizer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/nlp/text-classification-using-lstm</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/nlp/text-classification-using-multinomialnb-and-count-vectorizer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/nlp/text-classification-using-multinomialnb-and-tfidf-vectorizer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/nlp/text-classification-using-random-forest-classifier-and-count-vectorizer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/nlp/text-classification-using-random-forest-classifier-and-tfidf-vectorizer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/nlp/text-classification-using-svc-and-count-vectorizer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/nlp/text-classification-using-svc-and-tfidf-vectorizer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/nlp/text-classification-using-xgboost-and-count-vectorizer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/nlp/text-classification-using-xgboost-and-tfidf-vectorizer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/nlp/text-emotion-detection-using-text2emotion</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/nlp/text-generation-using-gpt2</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/nlp/text-generation-using-gpt-neo-125m</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/nlp/text-generation-using-gpt-neo-2.7b</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/nlp/text-summarization-using-distilbart</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/nlp/text-summarization-using-pegasus</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/adaboost-regression</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/adaboost-regression-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/adaboost-regression-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/adaboost-regression-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/adaboost-regression-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/adaboost-regression-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/catboost-regressor</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/catboost-regressor-using-pool</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/catboost-regressor-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/catboost-regressor-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/decision-tree-regression</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/decision-tree-regression-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/decision-tree-regression-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/decision-tree-regression-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/decision-tree-regression-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/decision-tree-regression-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/extra-trees-regression</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/extra-trees-regression-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/extra-trees-regression-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/extra-trees-regression-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/extra-trees-regression-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/extra-trees-regression-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/gradient-boosting-regressor</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/gradient-boosting-regressor-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/gradient-boosting-regressor-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/gradient-boosting-regressor-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/gradient-boosting-regressor-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/gradient-boosting-regressor-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/histogram-based-gradient-boosting-regression</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/histogram-based-gradient-boosting-regression-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/histogram-based-gradient-boosting-regression-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/histogram-based-gradient-boosting-regression-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/histogram-based-gradient-boosting-regression-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/histogram-based-gradient-boosting-regression-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/knn-regression</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/knn-regression-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/knn-regression-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/knn-regression-normalization-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/knn-regression-normalization-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/knn-regression-normalization-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/knn-regression-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/knn-regression-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/knn-regression-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/knn-regression-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/knn-regression-robustscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/knn-regression-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/knn-regression-scale-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/knn-regression-scale-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/knn-regression-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/knn-regression-standardscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/knn-regression-standardscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/knn-regression-standardscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/lgbm-regressor</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/lgbm-regressor-using-dataset</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/lgbm-regressor-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/lgbm-regressor-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/lgbm-regressor-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/ard-regression</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/ard-regression-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/ard-regression-minmaxscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/ard-regression-minmaxscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/ard-regression-minmaxscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/ard-regression-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/ard-regression-normalization-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/ard-regression-normalization-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/ard-regression-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/ard-regression-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/ard-regression-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/ard-regression-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/ard-regression-robustscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/ard-regression-robustscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/ard-regression-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/ard-regression-scale-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/ard-regression-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/ard-regression-standardscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/ard-regression-standardscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/ard-regression-standardscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/bayesian-ridge-regression</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/bayesian-ridge-regression-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/bayesian-ridge-regression-minmaxscaler-and-polynomial-featuress</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/bayesian-ridge-regression-minmaxscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/bayesian-ridge-regression-minmaxscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/bayesian-ridge-regression-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/bayesian-ridge-regression-normalization-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/bayesian-ridge-regression-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/bayesian-ridge-regression-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/bayesian-ridge-regression-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/bayesian-ridge-regression-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/bayesian-ridge-regression-robustscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/bayesian-ridge-regression-robustscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/bayesian-ridge-regression-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/bayesian-ridge-regression-scale-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/bayesian-ridge-regression-scale-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/bayesian-ridge-regression-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/bayesian-ridge-regression-standardscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/bayesian-ridge-regression-standardscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/elasticnet</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/elasticnet-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/elasticnet-minmaxscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/elasticnet-minmaxscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/elasticnet-minmaxscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/elasticnet-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/elasticnet-normalization-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/elasticnet-normalization-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/elasticnet-normalization-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/elasticnet-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/elasticnet-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/elasticnet-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/elasticnet-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/elasticnet-robustscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/elasticnet-robustscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/elasticnet-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/elasticnet-scale-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/elasticnet-scale-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/elasticnet-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/elasticnet-standardscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/elasticnet-standardscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/elasticnet-robustscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/gamma-regression</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/gamma-regression-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/gamma-regression-minmaxscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/gamma-regression-minmaxscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/gamma-regression-minmaxscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/gamma-regression-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/gamma-regression-normalization-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/gamma-regression-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/gamma-regression-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/gamma-regression-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/gamma-regression-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/gamma-regression-robustscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/gamma-regression-robustscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/gamma-regression-robustscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/gamma-regression-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/gamma-regression-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/gamma-regression-standardscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/gamma-regression-standardscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/gamma-regression-standardscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/huber-regressor</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/huber-regressor-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/huber-regressor-minmaxscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/huber-regressor-minmaxscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/huber-regressor-minmaxscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/huber-regressor-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/huber-regressor-normalization-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/huber-regressor-normalization-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/huber-regressor-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/huber-regressor-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/huber-regressor-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/huber-regressor-robustscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/huber-regressor-robustscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/huber-regressor-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/huber-regressor-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/huber-regressor-standardscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/huber-regressor-standardscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/huber-regressor-standardscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/least-angle-regression</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/least-angle-regression-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/least-angle-regression-minmaxscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/least-angle-regression-minmaxscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/least-angle-regression-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/least-angle-regression-scale-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/least-angle-regression-normalization-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/least-angle-regression-normalization-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/least-angle-regression-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/least-angle-regression-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/least-angle-regression-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/least-angle-regression-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/least-angle-regression-robustscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/least-angle-regression-robustscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/least-angle-regression-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/least-angle-regression-scale-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/least-angle-regression-scale-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/least-angle-regression-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/least-angle-regression-standardscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/least-angle-regression-standardscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/least-angle-regression-standardscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/lasso-lars-regression</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/lasso-lars-regression-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/lasso-lars-regression-minmaxscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/lasso-lars-regression-minmaxscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/lasso-lars-regression-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/lasso-lars-regression-normalization-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/lasso-lars-regression-normalization-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/lasso-lars-regression-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/lasso-lars-regression-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/lasso-lars-regression-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/lasso-lars-regression-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/lasso-lars-regression-robustscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/lasso-lars-regression-robustscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/lasso-lars-regression-robustscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/lasso-lars-regression-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/lasso-lars-regression-scale-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/lasso-lars-regression-scale-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/lasso-lars-regression-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/lasso-lars-regression-standardscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/lasso-lars-regression-standardscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/lasso-lars-regression-standardscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/lasso-regression</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/lasso-regression-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/lasso-regresion-minmaxscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/lasso-regresion-minmaxscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/lasso-regresion-minmaxscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/lasso-regression-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/lasso-regression-normalization-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/lasso-regression-normalization-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/lasso-regression-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/lasso-regression-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/lasso-regression-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/lasso-regression-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/lasso-regresion-robustscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/lasso-regression-robustscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/lasso-regression-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/lasso-regression-scale-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/lasso-regression-scale-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/lasso-regression-scale-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/lasso-regression-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/lasso-regression-standardscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/lasso-regression-standardscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/lasso-regression-standardscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/linear-regression</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/linear-regression-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/linear-regression-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/linear-regression-normalization-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/linear-regression-normalization-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/linear-regression-power-tranformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/linear-regression-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/linear-regression-robustscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/linear-regression-robustscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/linear-regression-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/linear-regression-scale-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/linear-regression-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/passive-aggressive-regressor</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/passive-aggressive-regressor-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/passive-aggressive-regressor-minmaxscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/passive-aggressive-regressor-minmaxscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/passive-aggressive-regressor-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/passive-aggressive-regressor-normalization-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/passive-aggressive-regressor-normalization-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/passive-aggressive-regressor-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/passive-aggressive-regressor-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/passive-aggressive-regressor-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/passive-aggressive-regressor-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/passive-aggressive-regressor-robustscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/passive-aggressive-regressor-robustscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/passive-aggressive-regressor-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/passive-aggressive-regressor-scale-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/passive-aggressive-regressor-scale-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/passive-aggressive-regressor-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/passive-aggressive-regressor-standardscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/passive-aggressive-regressor-standardscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/passive-aggressive-regressor-standardscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/poisson-regression</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/poisson-regression-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/poisson-regression-minmaxscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/poisson-regression-minmaxscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/poisson-regression-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/poisson-regression-normalization-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/poisson-regression-normalization-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/poisson-regression-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/poisson-regression-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/poisson-regression-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/poisson-regression-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/poisson-regression-robustscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/poisson-regression-robustscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/poisson-regression-robustscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/poisson-regression-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/poisson-regression-scale-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/poisson-regression-scale-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/poisson-regression-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/poisson-regression-standardscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/poisson-regression-standardscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/poisson-regression-standardscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/polynomial-regression</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/polynomial-regression-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/polynomial-regression-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/polynomial-regression-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/polynomial-regression-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/polynomial-regression-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/ridge-regression</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/ridge-regression-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/ridge-regression-minmaxscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/ridge-regression-minmaxscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/ridge-regression-minmaxscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/ridge-regression-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/ridge-regression-normalization-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/ridge-regression-normalization-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/ridge-regression-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/ridge-regression-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/ridge-regression-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/ridge-regression-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/ridge-regression-robustscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/bayesian-ridge-regression-robustscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/ridge-regression-robustscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/ridge-regression-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/ridge-regression-scale-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/ridge-regression-scale-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/ridge-regression-scale-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/ridge-regression-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/ridge-regression-standardscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/ridge-regression-standardscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/ridge-regression-standardscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/sgd-regression</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/sgd-regression-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/sgd-regression-minmaxscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/sgd-regression-minmaxscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/sgd-regression-minmaxscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/sgd-regression-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/sgd-regression-normalization-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/sgd-regression-normalization-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/sgd-regression-normalization-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/sgd-regression-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/sgd-regression-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/sgd-regression-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/sgd-regression-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/sgd-regression-robustscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/sgd-regression-robustscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/sgd-regression-robustscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/sgd-regression-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/sgd-regression-scale-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/sgd-regression-scale-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/sgd-regression-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/sgd-regression-standardscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/sgd-regression-standardscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/sgd-regression-standardscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/voting-regressor</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/radius-neighbors-regressor</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/radius-neighbors-regressor-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/radius-neighbors-regressor-minmaxscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/radius-neighbors-regressor-minmaxscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/radius-neighbors-regressor-minmaxscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/radius-neighbors-regressor-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/radius-neighbors-regressor-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/radius-neighbors-regressor-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/radius-neighbors-regressor-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/radius-neighbors-regressor-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/radius-neighbors-regressor-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/radius-neighbors-regressor-standardscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/radius-neighbors-regressor-standardscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/radius-neighbors-regressor-standardscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/random-forest-regression</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/random-forest-regression-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/random-forest-regression-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/random-forest-regression-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/random-forest-regression-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/random-forest-regression-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/linear-svr</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/linear-svr-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/linear-svr-minmaxscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/linear-svr-minmaxscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/linear-svr-minmaxscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/linear-svr-normailzation</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/linear-svr-normalization-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/linear-svr-normalization-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/linear-svr-normalization-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/linear-svr-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/linear-svr-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/linear-svr-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/linear-svr-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/linear-svr-robustscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/linear-svr-robustscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/linear-svr-regression-robustscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/linear-svr-regression-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/linear-svr-scale-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/linear-svr-scale-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/linear-svr-scale-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/linear-svr-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/linear-svr-standardscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/linear-svr-power-transformer-and-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/linear-svr-quantile-transformer-and-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/nusvr</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/nusvr-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/nusvr-minmaxscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/nusvr-minmaxscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/nusvr-minmaxscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/nusvr-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/nusvr-normalization-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/nusvr-normalization-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/nusvr-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/nusvr-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/nusvr-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/nusvr-robustscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/nusvr-robustscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/nusvr-robustscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/nusvr-scale-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/nusvr-scale-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/nusvr-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/nusvr-standardscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/nusvr-standardscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/nusvr-standardscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/svr</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/svr-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/svr-minmaxscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/svr-minmaxscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/svr-minmaxscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/svr-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/svr-normalization-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/svr-normalization-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/svr-normalization-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/svr-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/svr-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/svr-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/svr-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/svr-robustscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/svr-robustscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/svr-robustscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/svr-scale</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/svr-scale-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/svr-scale-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/svr-scale-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/svr-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/svr-standardscaler-and-polynomial-features</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/svr-standardscaler-and-power-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/svr-standardscaler-and-quantile-transformer</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/xgboost-regression</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/xgboost-regression-using-dmatrix</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/xgboost-regression-minmaxscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/xgboost-regression-normalization</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/xgboost-regression-robustscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/regression/xgboost-regression-standardscaler</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/time-series-analysis/arima</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/time-series-analysis/arimax</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/time-series-analysis/time-series-analysis-using-autoregressive-moving-average</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/time-series-analysis/time-series-analysis-using-autoregressive</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/time-series-analysis/fbprophet</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/time-series-analysis/holt-winters-exponential-smoothing</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/time-series-analysis/time-series-analysis-using-moving-average</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/time-series-analysis/sarima</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/time-series-analysis/sarimax</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/time-series-analysis/simple-exponential-smoothing</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/time-series-analysis/vector-autoregression</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/time-series-analysis/vector-autoregressive-moving-average</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+<url>
+	<loc>https://siberian.dev/time-series-analysis/varmax</loc>
+	<lastmod>2023-01-27</lastmod>
+</url>
+</urlset>
