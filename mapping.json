@@ -3279,7 +3279,7 @@
                         "description": "The Classification task using NuSVC Classifier with Normalizer feature scaling technique and PowerTransformer as Feature Transformation Technique in a pipeline.",
                         "URL": "https://cdn.siberian.dev/code/Classification/Support_Vector_Machine/NuSVC_Normalize_PowerTransformer.ipynb",
                         "keywords": "nu-support vector classification,nusvc,svm,support vector machine,nu svm,normalization,power transformer",
-                        "display_url": "https://siberian.dev/classification/nusvc-normalization-&-power-transformer"
+                        "display_url": "https://siberian.dev/classification/nusvc-normalization-and-power-transformer"
                     },
                     {
                         "name": "NuSVC_PolynomialFeatures.ipynb",
