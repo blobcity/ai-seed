@@ -153,7 +153,7 @@
                         "description": "Anomaly detection/outlier analysis using the Deep One-Class Classification. This template utilizes feature scaling using MinMaxScaler. DeepSVDD detects outlying objects in the data by calculating the distance from the center.",
                         "URL": "https://cdn.siberian.dev/code/Anomaly_Detection/Deep_One_Class_Classification/DeepSVDD_MinMaxScaler.ipynb",
                         "keywords": "deepsvdd,deep one-class classification,one-class classification,one-class svm,one-class neura network,minmaxscaler",
-                        "display_url": "https://siberian.dev/anomaly-detection/deep-one-class-classification-minmaxscaler\n"
+                        "display_url": "https://siberian.dev/anomaly-detection/deep-one-class-classification-minmaxscaler"
                     },
                     {
                         "name": "DeepSVDD_RobustScaler.ipynb",
