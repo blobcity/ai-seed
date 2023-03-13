@@ -1,4 +1,4 @@
-<a href="https://pix.blobcity.com/I1Nk23FY"><img src="https://blobcity.com/assets/img/blobcity-logo.svg" style="width: 40%"/></a>
+<a href="https://siberian.dev"><img src="https://siberian.dev/static/media/siberian-logo-2.c2bdb4adcee7430532bc.png" style="width: 40%"/></a>
 
 ![Contributors](https://shields.io/github/contributors/blobcity/ai-seed)
 ![Commit Activity](https://shields.io/github/commit-activity/m/blobcity/ai-seed)
