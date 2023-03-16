@@ -7323,9 +7323,9 @@
                     {
                         "name": "RidgeRegression_Normalize_PolynomialFeatures.ipynb",
                         "title": "Ridge Regression With Normalization And Polynomial Features",
-                        "description": "The Classification tasks using RidgeClassifier with Polynomial Features as Feature Transformation Technique and feature rescaling technique Normalization.",
+                        "description": "The Regression tasks using RidgeClassifier with Polynomial Features as Feature Transformation Technique and feature rescaling technique Normalization.",
                         "URL": "https://cdn.siberian.dev/code/Regression/Linear_Models/RidgeRegression_Normalize_PolynomialFeatures.ipynb",
-                        "keywords": "classification,ridgeclassifier,polynomial,s,datatranformationtechnique,rescalingtechnique,normalization",
+                        "keywords": "Regression,ridgeclassifier,polynomial,s,datatranformationtechnique,rescalingtechnique,normalization",
                         "display_url": "https://siberian.dev/regression/ridge-regression-normalization-and-polynomial-features"
                     },
                     {
@@ -7855,17 +7855,17 @@
                     {
                         "name": "LinearSVR_MinMaxScaler_PowerTransformer.ipynb",
                         "title": "Linear Support Vector Regression With MinMaxScaler And Power Transformer",
-                        "description": "The Classification task using Support Vector Regressor (SVR) based on the Support Vector Machine algorithm with Power Transformer as Feature Transformation Technique and MinMaxScaler for Feature Scaling in a pipeline.",
+                        "description": "The Regression task using Support Vector Regressor (SVR) based on the Support Vector Machine algorithm with Power Transformer as Feature Transformation Technique and MinMaxScaler for Feature Scaling in a pipeline.",
                         "URL": "https://cdn.siberian.dev/code/Regression/Support_Vector_Machine/LinearSVR_MinMaxScaler_PowerTransformer.ipynb",
-                        "keywords": "classification,support,vector,regressor,svr,support,vector,machine,power,transformer,datatranformationtechnique,minmaxscaler,scaling,pipeline",
+                        "keywords": "Regression,support,vector,regressor,svr,support,vector,machine,power,transformer,datatranformationtechnique,minmaxscaler,scaling,pipeline",
                         "display_url": "https://siberian.dev/regression/linear-svr-minmaxscaler-and-power-transformer"
                     },
                     {
                         "name": "LinearSVR_MinMaxScaler_QuantileTransformer.ipynb",
                         "title": "Linear Support Vector Regression With MinMaxScaler And Quantile Transformer",
-                        "description": "The Classification task using Support Vector Regressor (SVR) based on the Support Vector Machine algorithm with Quantile Transformer as Feature Transformation Technique and MinMaxScaler for Feature Scaling in a pipeline.",
+                        "description": "The Regression task using Support Vector Regressor (SVR) based on the Support Vector Machine algorithm with Quantile Transformer as Feature Transformation Technique and MinMaxScaler for Feature Scaling in a pipeline.",
                         "URL": "https://cdn.siberian.dev/code/Regression/Support_Vector_Machine/LinearSVR_MinMaxScaler_QuantileTransformer.ipynb",
-                        "keywords": "classification,support,vector,regressor,svr,support,vector,machine,quantiletransformer,datatranformationtechnique,minmaxscaler,scaling,pipeline",
+                        "keywords": "Regression,support,vector,regressor,svr,support,vector,machine,quantiletransformer,datatranformationtechnique,minmaxscaler,scaling,pipeline",
                         "display_url": "https://siberian.dev/regression/linear-svr-minmaxscaler-and-quantile-transformer"
                     },
                     {
@@ -7887,17 +7887,17 @@
                     {
                         "name": "LinearSVR_Normalize_PowerTransformer.ipynb",
                         "title": "Linear Support Vector Regression With Normalization And Power Transformer",
-                        "description": "The Classification task using Linear Support Vector Regression(LinearSVR) based on the Support Vector Machine algorithm with PowerTransformer as Feature Transformation Technique, rescaling technique normalization in a pipeline",
+                        "description": "The Regression task using Linear Support Vector Regression(LinearSVR) based on the Support Vector Machine algorithm with PowerTransformer as Feature Transformation Technique, rescaling technique normalization in a pipeline",
                         "URL": "https://cdn.siberian.dev/code/Regression/Support_Vector_Machine/LinearSVR_Normalize_PowerTransformer.ipynb",
-                        "keywords": "classification,linear,support,vector,regressionlinearsvr,support,vector,machine,powertransformer,datatranformationtechnique,rescalingtechnique,normalization,pipeline",
+                        "keywords": "Regression,linear,support,vector,regressionlinearsvr,support,vector,machine,powertransformer,datatranformationtechnique,rescalingtechnique,normalization,pipeline",
                         "display_url": "https://siberian.dev/regression/linear-svr-normalization-and-power-transformer"
                     },
                     {
                         "name": "LinearSVR_Normalize_QuantileTransformer.ipynb",
                         "title": "Linear Support Vector Regression With Normalization And Quantile Transformer",
-                        "description": "The Classification task using Linear Support Vector Regression(LinearSVR) based on the Support Vector Machine algorithm with QuantileTransformer as Feature Transformation Technique, rescaling technique normalization in a pipeline",
+                        "description": "The Regression task using Linear Support Vector Regression(LinearSVR) based on the Support Vector Machine algorithm with QuantileTransformer as Feature Transformation Technique, rescaling technique normalization in a pipeline",
                         "URL": "https://cdn.siberian.dev/code/Regression/Support_Vector_Machine/LinearSVR_Normalize_QuantileTransformer.ipynb",
-                        "keywords": "classification,linear,support,vector,regressionlinearsvr,support,vector,machine,quantiletransformer,datatranformationtechnique,rescalingtechnique,normalization,pipeline",
+                        "keywords": "Regression,linear,support,vector,regressionlinearsvr,support,vector,machine,quantiletransformer,datatranformationtechnique,rescalingtechnique,normalization,pipeline",
                         "display_url": "https://siberian.dev/regression/linear-svr-normalization-and-quantile-transformer"
                     },
                     {
@@ -7911,17 +7911,17 @@
                     {
                         "name": "LinearSVR_PowerTransformer.ipynb",
                         "title": "Linear Support Vector Regression With Power Transformer",
-                        "description": "The Classification task using Support Vector Regressor (SVR) based on the Support Vector Machine algorithm with Power Transformer as Feature Transformation Technique in a pipeline.",
+                        "description": "The Regression task using Support Vector Regressor (SVR) based on the Support Vector Machine algorithm with Power Transformer as Feature Transformation Technique in a pipeline.",
                         "URL": "https://cdn.siberian.dev/code/Regression/Support_Vector_Machine/LinearSVR_PowerTransformer.ipynb",
-                        "keywords": "classification,support,vector,regressor,svr,support,vector,machine,power,transformer,datatranformationtechnique,pipeline",
+                        "keywords": "Regression,support,vector,regressor,svr,support,vector,machine,power,transformer,datatranformationtechnique,pipeline",
                         "display_url": "https://siberian.dev/regression/linear-svr-power-transformer"
                     },
                     {
                         "name": "LinearSVR_QuantileTransformer.ipynb",
                         "title": "Linear Support Vector Regression With Quantile Transformer",
-                        "description": "The Classification task using Support Vector Regressor (SVR) based on the Support Vector Machine algorithm with Quantile Transformer as Feature Transformation Technique in a pipeline.",
+                        "description": "The Regression task using Support Vector Regressor (SVR) based on the Support Vector Machine algorithm with Quantile Transformer as Feature Transformation Technique in a pipeline.",
                         "URL": "https://cdn.siberian.dev/code/Regression/Support_Vector_Machine/LinearSVR_QuantileTransformer.ipynb",
-                        "keywords": "classification,support,vector,regressor,svr,support,vector,machine,quantiletransformer,datatranformationtechnique,pipeline",
+                        "keywords": "Regression,support,vector,regressor,svr,support,vector,machine,quantiletransformer,datatranformationtechnique,pipeline",
                         "display_url": "https://siberian.dev/regression/linear-svr-quantile-transformer"
                     },
                     {
@@ -7943,17 +7943,17 @@
                     {
                         "name": "LinearSVR_RobustScaler_PowerTransformer.ipynb",
                         "title": "Linear Support Vector Regression With RobustScaler And Power Transformer",
-                        "description": "The Classification task using Support Vector Regressor (SVR) based on the Support Vector Machine algorithm with Power Transformer as Feature Transformation Technique and RobustScaler for Feature Scaling in a pipeline.",
+                        "description": "The Regression task using Support Vector Regressor (SVR) based on the Support Vector Machine algorithm with Power Transformer as Feature Transformation Technique and RobustScaler for Feature Scaling in a pipeline.",
                         "URL": "https://cdn.siberian.dev/code/Regression/Support_Vector_Machine/LinearSVR_RobustScaler_PowerTransformer.ipynb",
-                        "keywords": "classification,support,vector,regressor,svr,support,vector,machine,power,transformer,datatranformationtechnique,robustscaler,scaling,pipeline",
+                        "keywords": "Regression,support,vector,regressor,svr,support,vector,machine,power,transformer,datatranformationtechnique,robustscaler,scaling,pipeline",
                         "display_url": "https://siberian.dev/regression/linear-svr-robustscaler-and-power-transformer"
                     },
                     {
                         "name": "LinearSVR_RobustScaler_QuantileTransformer.ipynb",
                         "title": "Linear Support Vector Regression With Quantile Transformer And RobustScaler",
-                        "description": "The Classification task using Support Vector Regressor (SVR) based on the Support Vector Machine algorithm with Quantile Transformer as Feature Transformation Technique and RobustScaler for Feature Scaling in a pipeline.",
+                        "description": "The Regression task using Support Vector Regressor (SVR) based on the Support Vector Machine algorithm with Quantile Transformer as Feature Transformation Technique and RobustScaler for Feature Scaling in a pipeline.",
                         "URL": "https://cdn.siberian.dev/code/Regression/Support_Vector_Machine/LinearSVR_RobustScaler_QuantileTransformer.ipynb",
-                        "keywords": "classification,support,vector,regressor,svr,support,vector,machine,quantiletransformer,datatranformationtechnique,robustscaler,scaling,pipeline",
+                        "keywords": "Regression,support,vector,regressor,svr,support,vector,machine,quantiletransformer,datatranformationtechnique,robustscaler,scaling,pipeline",
                         "display_url": "https://siberian.dev/regression/linear-svr-regression-robustscaler-and-quantile-transformer"
                     },
                     {
@@ -7967,9 +7967,9 @@
                     {
                         "name": "LinearSVR_Scale_PolynomialFeatures.ipynb",
                         "title": "Linear Support Vector Regression With Scale And Polynomial Features",
-                        "description": "The Classification task using Linear Support Vector Regression(LinearSVR) based on the Support Vector Machine algorithm with PolynomialFeatures as Feature Transformation Technique, rescaling technique scaling in a pipeline",
+                        "description": "The Regression task using Linear Support Vector Regression(LinearSVR) based on the Support Vector Machine algorithm with PolynomialFeatures as Feature Transformation Technique, rescaling technique scaling in a pipeline",
                         "URL": "https://cdn.siberian.dev/code/Regression/Support_Vector_Machine/LinearSVR_Scale_PolynomialFeatures.ipynb",
-                        "keywords": "classification,linear,support,vector,regressionlinearsvr,support,vector,machine,polynomials,datatranformationtechnique,rescalingtechnique,scaling,pipeline",
+                        "keywords": "Regression,linear,support,vector,regressionlinearsvr,support,vector,machine,polynomials,datatranformationtechnique,rescalingtechnique,scaling,pipeline",
                         "display_url": "https://siberian.dev/regression/linear-svr-scale-and-polynomial-features"
                     },
                     {
@@ -7983,9 +7983,9 @@
                     {
                         "name": "LinearSVR_Scale_QuantileTransformer.ipynb",
                         "title": "Linear Support Vector Regression With Scale And  Quantile Transformer",
-                        "description": "The Classification task using Support Vector Regressor (SVR) based on the Support Vector Machine algorithm with Quantile Transformer as Feature Transformation Technique and Scale for Feature Scaling in a pipeline.",
+                        "description": "The Regression task using Support Vector Regressor (SVR) based on the Support Vector Machine algorithm with Quantile Transformer as Feature Transformation Technique and Scale for Feature Scaling in a pipeline.",
                         "URL": "https://cdn.siberian.dev/code/Regression/Support_Vector_Machine/LinearSVR_Scale_QuantileTransformer.ipynb",
-                        "keywords": "classification,support,vector,regressor,svr,support,vector,machine,quantiletransformer,datatranformationtechnique,scale,scaling,pipeline",
+                        "keywords": "Regression,support,vector,regressor,svr,support,vector,machine,quantiletransformer,datatranformationtechnique,scale,scaling,pipeline",
                         "display_url": "https://siberian.dev/regression/linear-svr-scale-and-quantile-transformer"
                     },
                     {
@@ -7999,25 +7999,25 @@
                     {
                         "name": "LinearSVR_StandardScaler_PolynomialFeatures.ipynb",
                         "title": "Linear Support Vector Regression With StandardScaler And Polynomial Features",
-                        "description": "The Classification task using Support Vector Regressor (SVR) based on the Support Vector Machine algorithm with PolynomialFeatures as Feature Transformation Technique and Standard Scaler for Feature Scaling in a pipeline.",
+                        "description": "The Regression task using Support Vector Regressor (SVR) based on the Support Vector Machine algorithm with PolynomialFeatures as Feature Transformation Technique and Standard Scaler for Feature Scaling in a pipeline.",
                         "URL": "https://cdn.siberian.dev/code/Regression/Support_Vector_Machine/LinearSVR_StandardScaler_PolynomialFeatures.ipynb",
-                        "keywords": "classification,support,vector,regressor,svr,support,vector,machine,polynomials,datatranformationtechnique,standard,scaler,scaling,pipeline",
+                        "keywords": "Regression,support,vector,regressor,svr,support,vector,machine,polynomials,datatranformationtechnique,standard,scaler,scaling,pipeline",
                         "display_url": "https://siberian.dev/regression/linear-svr-standardscaler-and-polynomial-features"
                     },
                     {
                         "name": "LinearSVR_StandardScaler_PowerTransformer.ipynb",
                         "title": "Linear Support Vector Regression With Power Transformer And StandardScaler",
-                        "description": "The Classification task using Support Vector Regressor (SVR) based on the Support Vector Machine algorithm with Power Transformer as Feature Transformation Technique and Standard Scaler for Feature Scaling in a pipeline.",
+                        "description": "The Regression task using Support Vector Regressor (SVR) based on the Support Vector Machine algorithm with Power Transformer as Feature Transformation Technique and Standard Scaler for Feature Scaling in a pipeline.",
                         "URL": "https://cdn.siberian.dev/code/Regression/Support_Vector_Machine/LinearSVR_StandardScaler_PowerTransformer.ipynb",
-                        "keywords": "classification,support,vector,regressor,svr,support,vector,machine,power,transformer,datatranformationtechnique,standard,scaler,scaling,pipeline",
+                        "keywords": "Regression,support,vector,regressor,svr,support,vector,machine,power,transformer,datatranformationtechnique,standard,scaler,scaling,pipeline",
                         "display_url": "https://siberian.dev/regression/linear-svr-power-transformer-and-standardscaler"
                     },
                     {
                         "name": "LinearSVR_StandardScaler_QuantileTransformer.ipynb",
                         "title": "Linear Support Vector Regression With Quantile Transformer And StandardScaler",
-                        "description": "The Classification task using Support Vector Regressor (SVR) based on the Support Vector Machine algorithm with Quantile Transformer as Feature Transformation Technique and Standard Scaler for Feature Scaling in a pipeline.",
+                        "description": "The Regression task using Support Vector Regressor (SVR) based on the Support Vector Machine algorithm with Quantile Transformer as Feature Transformation Technique and Standard Scaler for Feature Scaling in a pipeline.",
                         "URL": "https://cdn.siberian.dev/code/Regression/Support_Vector_Machine/LinearSVR_StandardScaler_QuantileTransformer.ipynb",
-                        "keywords": "classification,support,vector,regressor,svr,support,vector,machine,quantiletransformer,datatranformationtechnique,standard,scaler,scaling,pipeline",
+                        "keywords": "Regression,support,vector,regressor,svr,support,vector,machine,quantiletransformer,datatranformationtechnique,standard,scaler,scaling,pipeline",
                         "display_url": "https://siberian.dev/regression/linear-svr-quantile-transformer-and-standardscaler"
                     },
                     {
@@ -8319,17 +8319,17 @@
                     {
                         "name": "SVR_Scale_PolynomialFeatures.ipynb",
                         "title": "Support Vector Regression(SVR) With Scale And Polynomial Features",
-                        "description": "The Classification task using Support Vector Regression(SVR) based on the Support Vector Machine algorithm with PolynomialFeatures as Feature Transformation Technique rescaling technique Scaling in a pipeline",
+                        "description": "The Regression task using Support Vector Regression(SVR) based on the Support Vector Machine algorithm with PolynomialFeatures as Feature Transformation Technique rescaling technique Scaling in a pipeline",
                         "URL": "https://cdn.siberian.dev/code/Regression/Support_Vector_Machine/SVR_Scale_PolynomialFeatures.ipynb",
-                        "keywords": "classification,support,vector,regressionsvr,support,vector,machine,polynomials,datatranformationtechnique,rescalingtechnique,scaling,pipeline",
+                        "keywords": "Regression,support,vector,regressionsvr,support,vector,machine,polynomials,datatranformationtechnique,rescalingtechnique,scaling,pipeline",
                         "display_url": "https://siberian.dev/regression/svr-scale-and-polynomial-features"
                     },
                     {
                         "name": "SVR_Scale_PowerTransformer.ipynb",
                         "title": "Support Vector Regression(SVR) With Scale And Power Transformer",
-                        "description": "The Classification task using Support Vector Regression(SVR) based on the Support Vector Machine algorithm with PowerTransformer as Feature Transformation Technique, rescaling technique Scaling in a pipeline",
+                        "description": "The Regression task using Support Vector Regression(SVR) based on the Support Vector Machine algorithm with PowerTransformer as Feature Transformation Technique, rescaling technique Scaling in a pipeline",
                         "URL": "https://cdn.siberian.dev/code/Regression/Support_Vector_Machine/SVR_Scale_PowerTransformer.ipynb",
-                        "keywords": "classification,support,vector,regressionsvr,support,vector,machine,powertransformer,datatranformationtechnique,rescalingtechnique,scaling,pipeline",
+                        "keywords": "Regression,support,vector,regressionsvr,support,vector,machine,powertransformer,datatranformationtechnique,rescalingtechnique,scaling,pipeline",
                         "display_url": "https://siberian.dev/regression/svr-scale-and-power-transformer"
                     },
                     {
@@ -8351,9 +8351,9 @@
                     {
                         "name": "SVR_StandardScaler_PolynomialFeatures.ipynb",
                         "title": "Support Vector Regression(SVR) With StandardScaler And Polynomial Features",
-                        "description": "The Classification task using Support Vector Regression(SVR) based on the Support Vector Machine algorithm with PolynomialFeatures as Feature Transformation Technique rescaling technique StandardScaler in a pipeline",
+                        "description": "The Regression task using Support Vector Regression(SVR) based on the Support Vector Machine algorithm with PolynomialFeatures as Feature Transformation Technique rescaling technique StandardScaler in a pipeline",
                         "URL": "https://cdn.siberian.dev/code/Regression/Support_Vector_Machine/SVR_StandardScaler_PolynomialFeatures.ipynb",
-                        "keywords": "classification,support,vector,regressionsvr,support,vector,machine,polynomials,datatranformationtechnique,rescalingtechnique,standardscaler,pipeline",
+                        "keywords": "Regression,support,vector,regressionsvr,support,vector,machine,polynomials,datatranformationtechnique,rescalingtechnique,standardscaler,pipeline",
                         "display_url": "https://siberian.dev/regression/svr-standardscaler-and-polynomial-features"
                     },
                     {
@@ -8367,9 +8367,9 @@
                     {
                         "name": "SVR_StandardScaler_QuantileTransformer.ipynb",
                         "title": "Support Vector Regression(SVR) With StandardScaler And Quantile Transformer",
-                        "description": "The Classification task using Support Vector Regressor (SVR) based on the Support Vector Machine algorithm with Quantile Transformer as Feature Transformation Technique and Standard Scaler for Feature Scaling in a pipeline.",
+                        "description": "The Regression task using Support Vector Regressor (SVR) based on the Support Vector Machine algorithm with Quantile Transformer as Feature Transformation Technique and Standard Scaler for Feature Scaling in a pipeline.",
                         "URL": "https://cdn.siberian.dev/code/Regression/Support_Vector_Machine/SVR_StandardScaler_QuantileTransformer.ipynb",
-                        "keywords": "classification,support,vector,regressor,svr,support,vector,machine,quantiletransformer,datatranformationtechnique,standard,scaler,scaling,pipeline",
+                        "keywords": "Regression,support,vector,regressor,svr,support,vector,machine,quantiletransformer,datatranformationtechnique,standard,scaler,scaling,pipeline",
                         "display_url": "https://siberian.dev/regression/svr-standardscaler-and-quantile-transformer"
                     }
                 ]
